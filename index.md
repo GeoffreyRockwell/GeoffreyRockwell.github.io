@@ -1,4 +1,4 @@
-# My First Page
+# My Home Page
 Here is my home page. 
 
 Here is my second: [My Name](myname.html)
