@@ -1,2 +1,2 @@
 # GeoffreyRockwell.github.io
-Test Web Site
+This web site is an example of the sort of site you can build in GitHub.
